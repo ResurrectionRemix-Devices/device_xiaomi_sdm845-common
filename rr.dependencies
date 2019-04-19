@@ -1,4 +1,10 @@
 [
+ {
+    "remote":      "github",
+    "repository":  "Hlcpereira/kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/dipper",
+    "branch":      "Pepper-pie"
+  },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
